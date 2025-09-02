@@ -10,7 +10,7 @@ A simple and stylish web app to explore details about any country. Search for a 
 - 🎨 Fancy UI with animations and hover effects
 
   ## 🖥️ Demo  
-[Live Demo]()
+[Live Demo](https://aishi1528.github.io/Country-Facts-Explorer/)
 
 - ## ⚡ Future Improvements  
 - 🎲 Add **Random Country** button for quick exploration  
