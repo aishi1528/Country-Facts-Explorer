@@ -13,4 +13,3 @@ A simple and stylish web app to explore details about any country. Search for a 
 [Live Demo](https://aishi1528.github.io/Country-Facts-Explorer/)
 
 
-  ## 📸 Screenshot
